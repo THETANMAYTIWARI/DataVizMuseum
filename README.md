@@ -49,3 +49,23 @@ This mini gallery from **DataVizMuseum** showcases Tableau visuals built on the 
 </p>
 
 - - -
+
+<img width="1662" height="853" alt="image" src="https://github.com/user-attachments/assets/2f7053f8-bf95-4ba1-8831-760b49281d5b" />
+<img width="1661" height="852" alt="image" src="https://github.com/user-attachments/assets/342a3c28-2138-4228-b1b5-c68134256d6e" />
+<img width="1659" height="847" alt="image" src="https://github.com/user-attachments/assets/28f3ee16-17a9-4fde-8220-b39fe8cd69f6" />
+<img width="1650" height="855" alt="image" src="https://github.com/user-attachments/assets/cc86f843-bc5d-4f23-9ea0-64521252e045" />
+<img width="1660" height="850" alt="image" src="https://github.com/user-attachments/assets/5681866c-28e4-4369-8cb9-32c26d2d6c18" />
+<img width="1658" height="853" alt="image" src="https://github.com/user-attachments/assets/9f8c77a7-2729-4f82-8d21-50caef6acf31" />
+<img width="1657" height="851" alt="image" src="https://github.com/user-attachments/assets/e9f16dee-3be6-47ac-a24a-675d508ed998" />
+<img width="1655" height="840" alt="image" src="https://github.com/user-attachments/assets/7f4ad8ad-027c-4bb0-a1e6-e39e041713d9" />
+
+| Screenshot | Visualization Title                      | Sheet Name (Recommended)          | Key Insight                                                             |
+| ---------- | ---------------------------------------- | --------------------------------- | ----------------------------------------------------------------------- |
+| 🗺️        | **Profit by Region – Filled Map**        | `Profit_By_State_Map`             | Shows which U.S. states generate profit or incur losses.                |
+| 📊         | **Category-wise Profit Bar Chart**       | `Profit_By_Category_SubCategory`  | Compares profitability across product categories & subcategories.       |
+| 📈         | **State-wise Discount (Vertical Bars)**  | `Discount_By_State`               | Highlights total discount contribution by each state.                   |
+| 🟦🟩       | **Sales Treemap (State → City)**         | `Sales_Treemap_State_City`        | Visualizes sales contribution distribution by cities within each state. |
+| 🥧         | **Sales Contribution Pie – State Level** | `Sales_Pie_By_State`              | Displays proportional sales share by state.                             |
+| 📈         | **Monthly Profit Trend (Line Chart)**    | `Monthly_Profit_Trend`            | Shows monthly ups & downs in profitability across the year.             |
+| 📊         | **Quantity Distribution Histogram**      | `Quantity_Distribution_Histogram` | Identifies ordering patterns & frequency of purchased units.            |
+| 🗺️🔵      | **Sales Map with Circles – State Level** | `Sales_Map_Circle_View`           | Shows total sales from each state using circle magnitude visualization. |
