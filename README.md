@@ -110,8 +110,6 @@ This project presents an interactive Flight Price Analysis built using Tableau, 
 
 ## 📊 Flight Price Analysis – Tableau Visual Gallery
 
-## 📊 Flight Price Analysis – Tableau Visuals
-
 <div align="center">
 
 ### **📌 Visual Gallery**
