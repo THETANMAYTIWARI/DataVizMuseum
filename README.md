@@ -7,7 +7,10 @@ A curated collection of Tableau dashboards and data visualizations I created dur
 
 This mini gallery from **DataVizMuseum** showcases Tableau visuals built on the `StatewiseTestingDetails.csv` dataset, highlighting how COVID-19 testing, positives, and negatives varied across Indian states.
 
-### 🖼️ Visualizations Grid 
+<div align="center">
+
+### **📌 Visual Gallery**
+
 <table>
   <tr>
     <td align="center">
@@ -48,14 +51,16 @@ This mini gallery from **DataVizMuseum** showcases Tableau visuals built on the 
   <br />
   <sub><b>COVID-19 India – Overview Dashboard</b></sub>
 </p>
-
+</div>
 - - -
 
 ## 📊 Superstore Data Exploration
 
 A compact visual exploration of the Superstore dataset, analyzing key business metrics such as Sales, Profit, Customer Segments, Categories, and Regional Performance. Through a series of Tableau dashboards, the dataset is broken down into digestible insights that highlight trends, patterns, and actionable observations across different dimensions.
 
-### 🖼️ Visualizations Grid
+<div align="center">
+
+### **📌 Visual Gallery**
 <table>
   <tr>
     <td align="center">
@@ -101,6 +106,7 @@ A compact visual exploration of the Superstore dataset, analyzing key business m
     </td>
   </tr>
 </table>
+</div>
 
 - - -
 ## ✈️ Flight Price Analysis – Tableau Visual Gallery
