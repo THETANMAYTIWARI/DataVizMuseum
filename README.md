@@ -2,16 +2,8 @@
 
 A curated collection of Tableau dashboards and data visualizations I created during my academic journey. This repository serves as a visual gallery showcasing my work in analytics, storytelling, and data-driven insights.
 
-![COVID-19 India – Testing & Case Insights](https://img.shields.io/badge/COVID--19%20India-Testing%20%26%20Case%20Insights-blue)
-![COVID-19 India – Testing & Case Insights](https://img.shields.io/badge/COVID--19%20India-Testing%20%26%20Case%20Insights-red)
-![COVID-19 India – Testing & Case Insights](https://img.shields.io/badge/COVID--19%20India-Testing%20%26%20Case%20Insights-brightgreen)
-![COVID-19 India – Testing & Case Insights](https://img.shields.io/badge/COVID--19%20India-Testing%20%26%20Case%20Insights-8A2BE2?style=flat-square)
-![COVID-19 India – Testing & Case Insights](https://img.shields.io/badge/COVID--19%20India-Testing%20%26%20Case%20Insights-yellow)
-![COVID-19 India – Testing & Case Insights](https://img.shields.io/badge/COVID--19%20India-Testing%20%26%20Case%20Insights-111827?style=for-the-badge&logoColor=white)
-![COVID-19 India – Testing & Case Insights](https://img.shields.io/badge/COVID--19%20Insights-Analytics%20Dashboard-0A66C2?style=flat&logo=tableau&logoColor=white)
-![COVID-19 India – Testing & Case Insights](https://img.shields.io/badge/COVID–19%20India-Testing%20%26%20Case%20Insights-purple?style=for-the-badge)
 
-## COVID-19 India – Testing & Case Insights
+## 🦠 COVID-19 India – Testing & Case Insights
 
 This mini gallery from **DataVizMuseum** showcases Tableau visuals built on the `StatewiseTestingDetails.csv` dataset, highlighting how COVID-19 testing, positives, and negatives varied across Indian states.
 
