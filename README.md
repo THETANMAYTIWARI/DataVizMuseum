@@ -103,3 +103,14 @@ A compact visual exploration of the Superstore dataset, analyzing key business m
 </table>
 
 - - -
+## ✈️ Flight Price Analysis – Tableau Visual Gallery
+
+This project presents an interactive Flight Price Analysis built using Tableau, exploring how different factors such as airline, source–destination pairs, number of stops, route, and duration influence flight pricing. The visual gallery below showcases multiple dashboards and charts created from the FlightPrice_train dataset to uncover patterns, pricing trends, and travel cost insights.
+
+
+<img width="1656" height="843" alt="image" src="https://github.com/user-attachments/assets/5167a3a0-3222-4015-b8af-cab5366f4fad" />
+<img width="1664" height="840" alt="image" src="https://github.com/user-attachments/assets/135102bd-2e5a-4d68-89ab-16ce256fe533" />
+<img width="1658" height="845" alt="image" src="https://github.com/user-attachments/assets/525e8799-06d1-49b1-934c-3bdf27f971ee" />
+<img width="1656" height="839" alt="image" src="https://github.com/user-attachments/assets/aaf1a324-47bd-4e3e-ab54-caa728879112" />
+<img width="1659" height="844" alt="image" src="https://github.com/user-attachments/assets/f44fa297-9c84-4cfb-afe0-0439521fbd0d" />
+<img width="1655" height="848" alt="image" src="https://github.com/user-attachments/assets/6e1c183e-bea9-4c5a-bf67-326373d72a3a" />
