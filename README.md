@@ -2,60 +2,6 @@
 
 A curated collection of Tableau dashboards and data visualizations I created during my academic journey. This repository serves as a visual gallery showcasing my work in analytics, storytelling, and data-driven insights.
 
-
-## 🦠 COVID-19 India – Testing & Case Insights
-
-This mini gallery from **DataVizMuseum** showcases Tableau visuals built on the `StatewiseTestingDetails.csv` dataset, highlighting how COVID-19 testing, positives, and negatives varied across Indian states.
-
-<div align="center">
-
-### **📌 Visual Gallery**
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/8b40e5db-0550-4937-93ae-42a6d926d150" width="320" />
-      <br />
-      <sub><b>Statewise Positive Case Distribution</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/3a5fa7a0-730c-456f-b0ef-314498a1a9ff" width="320" />
-      <br />
-      <sub><b>Statewise Negative Case Distribution</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/8719f4d8-aee1-46e2-ae2d-6c767d27304f" width="320" />
-      <br />
-      <sub><b>Testing Volume vs Outcomes by State</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/c964eeea-f46f-4bae-ae63-8a2c50c80ae0" width="320" />
-      <br />
-      <sub><b>India’s COVID Hotspots Map</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/bfa5c06d-204b-4504-a819-3c554cb5d2c0" width="320" />
-      <br />
-      <sub><b>Statewise Test Result Share (Pie)</b></sub>
-    </td>
-    <td></td>
-  </tr>
-</table>
-</div>
-
-
-### 🎛️ Interactive Dashboard
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dd70a23e-db85-4371-9e32-59a79845f935" width="700" />
-  <br />
-  <sub><b>COVID-19 India – Overview Dashboard</b></sub>
-</p>
-
-- - -
-
 ## 📊 Superstore Data Exploration
 
 A compact visual exploration of the Superstore dataset, analyzing key business metrics such as Sales, Profit, Customer Segments, Categories, and Regional Performance. Through a series of Tableau dashboards, the dataset is broken down into digestible insights that highlight trends, patterns, and actionable observations across different dimensions.
@@ -111,6 +57,62 @@ A compact visual exploration of the Superstore dataset, analyzing key business m
 </div>
 
 - - -
+
+
+## 🦠 COVID-19 India – Testing & Case Insights
+
+This mini gallery from **DataVizMuseum** showcases Tableau visuals built on the `StatewiseTestingDetails.csv` dataset, highlighting how COVID-19 testing, positives, and negatives varied across Indian states.
+
+<div align="center">
+
+### **📌 Visual Gallery**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8b40e5db-0550-4937-93ae-42a6d926d150" width="320" />
+      <br />
+      <sub><b>Statewise Positive Case Distribution</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3a5fa7a0-730c-456f-b0ef-314498a1a9ff" width="320" />
+      <br />
+      <sub><b>Statewise Negative Case Distribution</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8719f4d8-aee1-46e2-ae2d-6c767d27304f" width="320" />
+      <br />
+      <sub><b>Testing Volume vs Outcomes by State</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c964eeea-f46f-4bae-ae63-8a2c50c80ae0" width="320" />
+      <br />
+      <sub><b>India’s COVID Hotspots Map</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/bfa5c06d-204b-4504-a819-3c554cb5d2c0" width="320" />
+      <br />
+      <sub><b>Statewise Test Result Share (Pie)</b></sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
+</div>
+
+
+### 🎛️ Interactive Dashboard
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd70a23e-db85-4371-9e32-59a79845f935" width="700" />
+  <br />
+  <sub><b>COVID-19 India – Overview Dashboard</b></sub>
+</p>
+
+- - -
+
+
 ## ✈️ Flight Price Analysis – Tableau Visual Gallery
 
 This project presents an interactive Flight Price Analysis built using Tableau, exploring how different factors such as airline, source–destination pairs, number of stops, route, and duration influence flight pricing. The visual gallery below showcases multiple dashboards and charts created from the FlightPrice_train dataset to uncover patterns, pricing trends, and travel cost insights.
