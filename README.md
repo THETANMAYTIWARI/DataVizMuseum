@@ -43,6 +43,8 @@ This mini gallery from **DataVizMuseum** showcases Tableau visuals built on the 
     <td></td>
   </tr>
 </table>
+</div>
+
 
 ### 🎛️ Interactive Dashboard
 
@@ -51,7 +53,7 @@ This mini gallery from **DataVizMuseum** showcases Tableau visuals built on the 
   <br />
   <sub><b>COVID-19 India – Overview Dashboard</b></sub>
 </p>
-</div>
+
 - - -
 
 ## 📊 Superstore Data Exploration
@@ -114,7 +116,6 @@ A compact visual exploration of the Superstore dataset, analyzing key business m
 This project presents an interactive Flight Price Analysis built using Tableau, exploring how different factors such as airline, source–destination pairs, number of stops, route, and duration influence flight pricing. The visual gallery below showcases multiple dashboards and charts created from the FlightPrice_train dataset to uncover patterns, pricing trends, and travel cost insights.
 
 
-## 📊 Flight Price Analysis – Tableau Visual Gallery
 
 <div align="center">
 
