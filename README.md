@@ -61,7 +61,7 @@ A compact visual exploration of the Superstore dataset, analyzing key business m
 
 ## 🦠 COVID-19 India – Testing & Case Insights
 
-This mini gallery from **DataVizMuseum** showcases Tableau visuals built on the `StatewiseTestingDetails.csv` dataset, highlighting how COVID-19 testing, positives, and negatives varied across Indian states.
+This mini gallery showcases Tableau visuals built on the `StatewiseTestingDetails.csv` dataset, highlighting how COVID-19 testing, positives, and negatives varied across Indian states.
 
 <div align="center">
 
