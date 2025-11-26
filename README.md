@@ -44,7 +44,7 @@ This mini gallery from **DataVizMuseum** showcases Tableau visuals built on the 
 ### 🎛️ Interactive Dashboard
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dd70a23e-db85-4371-9e32-59a79845f935" alt="Interactive Dashboard" width="70%" />
+  <img src="https://github.com/user-attachments/assets/dd70a23e-db85-4371-9e32-59a79845f935" width="700" />
   <br />
   <sub><b>COVID-19 India – Overview Dashboard</b></sub>
 </p>
@@ -154,7 +154,7 @@ This project presents an interactive Flight Price Analysis built using Tableau, 
 ### 🎛️ Interactive Dashboard
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f3f3df75-1528-406e-9da0-ba4f87514ee2" alt="Interactive Dashboard" width="70%" />
+  <img src="https://github.com/user-attachments/assets/f3f3df75-1528-406e-9da0-ba4f87514ee2" width="70%" />
   <br />
   <sub><b>Comprehensive Flight Price Explorer (Dashboard)</b></sub>
 </p>
