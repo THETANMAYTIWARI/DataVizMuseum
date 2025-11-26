@@ -48,4 +48,4 @@ This mini gallery from **DataVizMuseum** showcases Tableau visuals built on the 
   <sub><b>COVID-19 India – Overview Dashboard</b></sub>
 </p>
 
-___
+- - -
