@@ -152,10 +152,12 @@ This project presents an interactive Flight Price Analysis built using Tableau, 
 </table>
 
 
-### 🎛️ Comprehensive Flight Price Explorer (Dashboard)
+### 🎛️ Interactive Dashboard
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f3f3df75-1528-406e-9da0-ba4f87514ee2" alt="Interactive Dashboard" width="70%" />
+  <br />
+  <sub><b>Comprehensive Flight Price Explorer (Dashboard)</b></sub>
 </p>
 
 - - -
