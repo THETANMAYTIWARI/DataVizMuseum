@@ -41,7 +41,7 @@ This mini gallery from **DataVizMuseum** showcases Tableau visuals built on the 
   </tr>
 </table>
 
-### Interactive Dashboard
+### 🎛️ Interactive Dashboard
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dd70a23e-db85-4371-9e32-59a79845f935" width="700" />
