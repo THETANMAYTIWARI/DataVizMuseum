@@ -60,4 +60,49 @@ This mini gallery from **DataVizMuseum** showcases Tableau visuals built on the 
 <img width="1655" height="840" alt="image" src="https://github.com/user-attachments/assets/7f4ad8ad-027c-4bb0-a1e6-e39e041713d9" />
 
 🖼️ Visualizations Grid
-<table> <tr> <td align="center"><b>Sales Dashboard</b><br><img src="https://github.com/user-attachments/assets/2f7053f8-bf95-4ba1-8831-760b49281d5b" width="400"/></td> <td align="center"><b>Profit Dashboard</b><br><img src="https://github.com/user-attachments/assets/342a3c28-2138-4228-b1b5-c68134256d6e" width="400"/></td> </tr> <tr> <td align="center"><b>Customer Dashboard</b><br><img src="https://github.com/user-attachments/assets/28f3ee16-17a9-4fde-8220-b39fe8cd69f6" width="400"/></td> <td align="center"><b>Region-wise Sales</b><br><img src="https://github.com/user-attachments/assets/cc86f843-bc5d-4f23-9ea0-64521252e045" width="400"/></td> </tr> <tr> <td align="center"><b>Category Analysis</b><br><img src="https://github.com/user-attachments/assets/5681866c-28e4-4369-8cb9-32c26d2d6c18" width="400"/></td> <td align="center"><b>Sales Bar Visualization</b><br><img src="https://github.com/user-attachments/assets/9f8c77a7-2729-4f82-8d21-50caef6acf31" width="400"/></td> </tr> <tr> <td align="center"><b>Geo Map – Sales</b><br><img src="https://github.com/user-attachments/assets/e9f16dee-3be6-47ac-a24a-675d508ed998" width="400"/></td> <td align="center"><b>Profit Overview</b><br><img src="https://github.com/user-attachments/assets/7f4ad8ad-027c-4bb0-a1e6-e39e041713d9" width="400"/></td> </tr> </table>
+<table>
+  <tr>
+    <td align="center">
+      <b>Sales Dashboard</b><br>
+      <img src="https://github.com/user-attachments/assets/2f7053f8-bf95-4ba1-8831-760b49281d5b" width="400"/>
+    </td>
+    <td align="center">
+      <b>Profit Dashboard</b><br>
+      <img src="https://github.com/user-attachments/assets/342a3c28-2138-4228-b1b5-c68134256d6e" width="400"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>Customer Dashboard</b><br>
+      <img src="https://github.com/user-attachments/assets/28f3ee16-17a9-4fde-8220-b39fe8cd69f6" width="400"/>
+    </td>
+    <td align="center">
+      <b>Region-wise Sales</b><br>
+      <img src="https://github.com/user-attachments/assets/cc86f843-bc5d-4f23-9ea0-64521252e045" width="400"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>Category Analysis</b><br>
+      <img src="https://github.com/user-attachments/assets/5681866c-28e4-4369-8cb9-32c26d2d6c18" width="400"/>
+    </td>
+    <td align="center">
+      <b>Sales Bar Visualization</b><br>
+      <img src="https://github.com/user-attachments/assets/9f8c77a7-2729-4f82-8d21-50caef6acf31" width="400"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>Geo Map – Sales</b><br>
+      <img src="https://github.com/user-attachments/assets/e9f16dee-3be6-47ac-a24a-675d508ed998" width="400"/>
+    </td>
+    <td align="center">
+      <b>Profit Overview</b><br>
+      <img src="https://github.com/user-attachments/assets/7f4ad8ad-027c-4bb0-a1e6-e39e041713d9" width="400"/>
+    </td>
+  </tr>
+</table>
+
