@@ -110,34 +110,46 @@ This project presents an interactive Flight Price Analysis built using Tableau, 
 
 ## 📊 Flight Price Analysis – Tableau Visual Gallery
 
+## 📊 Flight Price Analysis – Tableau Visuals
+
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github.com/user-attachments/assets/5167a3a0-3222-4015-b8af-cab5366f4fad" alt="Flight Viz 1" width="100%" />
-      </td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/135102bd-2e5a-4d68-89ab-16ce256fe533" alt="Flight Viz 2" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github.com/user-attachments/assets/525e8799-06d1-49b1-934c-3bdf27f971ee" alt="Flight Viz 3" width="100%" />
-      </td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/aaf1a324-47bd-4e3e-ab54-caa728879112" alt="Flight Viz 4" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github.com/user-attachments/assets/f44fa297-9c84-4cfb-afe0-0439521fbd0d" alt="Flight Viz 5" width="100%" />
-      </td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/231920c1-c37e-4271-9c77-11d5a62c08ae" alt="Flight Viz 6" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+
+### **📌 Visual Gallery**
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Bubble Chart – Airline vs Price</b><br>
+      <img src="https://github.com/user-attachments/assets/5167a3a0-3222-4015-b8af-cab5366f4fad" width="100%">
+    </td>
+    <td align="center">
+      <b>Bubble Chart – Source & Destination with Price</b><br>
+      <img src="https://github.com/user-attachments/assets/135102bd-2e5a-4d68-89ab-16ce256fe533" width="100%">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>Bubble Chart – Number of Stops with Price</b><br>
+      <img src="https://github.com/user-attachments/assets/525e8799-06d1-49b1-934c-3bdf27f971ee" width="100%">
+    </td>
+    <td align="center">
+      <b>Box & Whisker – Airline · Duration · Route vs Price</b><br>
+      <img src="https://github.com/user-attachments/assets/aaf1a324-47bd-4e3e-ab54-caa728879112" width="100%">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>Treemap – Destination Price</b><br>
+      <img src="https://github.com/user-attachments/assets/f44fa297-9c84-4cfb-afe0-0439521fbd0d" width="100%">
+    </td>
+    <td align="center">
+      <b>Destination Price Treemap (Detailed)</b><br>
+      <img src="https://github.com/user-attachments/assets/231920c1-c37e-4271-9c77-11d5a62c08ae" width="100%">
+    </td>
+  </tr>
+</table>
 
 
 ### 🎛️ Interactive Dashboard
