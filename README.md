@@ -44,7 +44,7 @@ This mini gallery from **DataVizMuseum** showcases Tableau visuals built on the 
 ### 🎛️ Interactive Dashboard
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dd70a23e-db85-4371-9e32-59a79845f935" alt="Interactive Dashboard" width="700" />
+  <img src="https://github.com/user-attachments/assets/dd70a23e-db85-4371-9e32-59a79845f935" alt="Interactive Dashboard" width="70%" />
   <br />
   <sub><b>COVID-19 India – Overview Dashboard</b></sub>
 </p>
