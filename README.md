@@ -180,6 +180,24 @@ This mini gallery showcases Tableau visuals built on the `StatewiseTestingDetail
     </td>
   </tr>
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8b40e5db-0550-4937-93ae-42a6d926d150" width="320" />
+      <br />
+      <sub><b>Statewise Positive Case Distribution</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3a5fa7a0-730c-456f-b0ef-314498a1a9ff" width="320" />
+      <br />
+      <sub><b>Statewise Negative Case Distribution</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8719f4d8-aee1-46e2-ae2d-6c767d27304f" width="320" />
+      <br />
+      <sub><b>Testing Volume vs Outcomes by State</b></sub>
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/c964eeea-f46f-4bae-ae63-8a2c50c80ae0" width="320" />
@@ -193,6 +211,7 @@ This mini gallery showcases Tableau visuals built on the `StatewiseTestingDetail
     </td>
   </tr>
 </table>
+
 </div>
 
 
