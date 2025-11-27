@@ -71,26 +71,32 @@ This project explores Sales, Profit, and Geographical trends across African coun
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/96bf0674-62fc-4e5a-b3a6-2be78f6259bd" width="450" />
+      <img src="https://github.com/user-attachments/assets/96bf0674-62fc-4e5a-b3a6-2be78f6259bd" width="450" /><br/>
+      <b>Profit Bars</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/33eecf49-4524-43dc-8200-b7419658393c" width="450" />
+      <img src="https://github.com/user-attachments/assets/33eecf49-4524-43dc-8200-b7419658393c" width="450" /><br/>
+      <b>Sales Treemap</b>
     </td>
   </tr>
+
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/f7dcf5be-7410-4e1a-8381-5f88e023a3d9" width="450" />
+      <img src="https://github.com/user-attachments/assets/f7dcf5be-7410-4e1a-8381-5f88e023a3d9" width="450" /><br/>
+      <b>Sales Density Map</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/5da7b96d-845e-4b37-860e-e0642b3a5edd" width="450" />
+      <img src="https://github.com/user-attachments/assets/5da7b96d-845e-4b37-860e-e0642b3a5edd" width="450" /><br/>
+      <b>Performance Bubbles</b>
     </td>
   </tr>
+
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/2e36309c-460f-4bdf-9d50-82ad025e5c82" width="450" />
+      <img src="https://github.com/user-attachments/assets/2e36309c-460f-4bdf-9d50-82ad025e5c82" width="450" /><br/>
+      <b>Outlier Boxplot</b>
     </td>
-    <td align="center">
-    </td>
+    <td align="center"></td>
   </tr>
 </table>
 </div>
