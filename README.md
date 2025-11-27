@@ -4,6 +4,58 @@ A curated collection of Tableau dashboards and data visualizations I created dur
 
 - - - 
 
+### 1. 💳 Customer Activity Trends (CreditCard Dataset)  
+A comparative view of customer behavior metrics such as credit card usage, total visits, and engagement levels. Helps understand how customers interact across banking and online channels.
+
+
+### 2. 🗺️ Spatial Population Analysis (2001–2011) — District Population Dataset  
+A geographic visualization showing district-wise population changes across India between 2001 and 2011. Reveals regional demographic shifts, growth pockets, and population distribution patterns.
+
+
+### 3. 🌸 K-Means Feature Grid (IRIS_new Dataset)  
+A scatter-matrix visualization segmented using K-Means clustering. Shows natural groupings among features and highlights multi-dimensional relationships within the Iris dataset.
+
+
+### 4. 📈 Sales Efficiency Scatter (African Mobile Sales Dataset)  
+A sales vs profit scatterplot used to assess operational efficiency. Helps detect profit variations, performance trends, and market outliers across African regions.
+
+
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/ff0e61d1-ee7f-4857-8622-6b2f5beb35ee" />
+<img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/d3ce0908-cbf2-4bb9-b776-c3bcc49d236a" />
+<img width="1918" height="929" alt="image" src="https://github.com/user-attachments/assets/55b85eab-a003-4467-b97a-5f583300a02c" />
+<img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/93872c13-0154-4221-9689-9f2a70780efa" />
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ff0e61d1-ee7f-4857-8622-6b2f5beb35ee" width="450" />
+      <br />
+      <sub><b>💳📈 Customer Activity Trends (CreditCard Dataset)</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d3ce0908-cbf2-4bb9-b776-c3bcc49d236a" width="450" />
+      <br />
+      <sub><b>🌍📱📈 Sales Efficiency Scatter (African Mobile Sales Dataset)</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/55b85eab-a003-4467-b97a-5f583300a02c" width="450" />
+      <br />
+      <sub><b>🗺️👥 Spatial Population Analysis (2001–2011)</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/93872c13-0154-4221-9689-9f2a70780efa" width="450" />
+      <br />
+      <sub><b>🔷🌸 K-Means Feature Grid (IRIS_new Dataset)</b></sub>
+    </td>
+  </tr>
+</table>
+
+
+- - -
+
 ## 🏬 Superstore Insights
 
 A compact visual exploration of the Superstore dataset, analyzing key business metrics such as Sales, Profit, Customer Segments, Categories, and Regional Performance. Through a series of Tableau dashboards, the dataset is broken down into digestible insights that highlight trends, patterns, and actionable observations across different dimensions.
