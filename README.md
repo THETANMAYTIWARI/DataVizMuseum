@@ -4,6 +4,7 @@ A curated collection of Tableau dashboards and data visualizations I created dur
 
 - - - 
 ## 🎯 A. Core Data Explorations
+
 ### 1. 💳 Customer Activity Trends (CreditCard Dataset)  
 A comparative view of customer behavior metrics such as credit card usage, total visits, and engagement levels. Helps understand how customers interact across banking and online channels.
 
