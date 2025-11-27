@@ -19,40 +19,36 @@ A scatter-matrix visualization segmented using K-Means clustering. Shows natural
 ### 4. 📈 Sales Efficiency Scatter (African Mobile Sales Dataset)  
 A sales vs profit scatterplot used to assess operational efficiency. Helps detect profit variations, performance trends, and market outliers across African regions.
 
+<div align="center">
 
-<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/ff0e61d1-ee7f-4857-8622-6b2f5beb35ee" />
-<img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/d3ce0908-cbf2-4bb9-b776-c3bcc49d236a" />
-<img width="1918" height="929" alt="image" src="https://github.com/user-attachments/assets/55b85eab-a003-4467-b97a-5f583300a02c" />
-<img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/93872c13-0154-4221-9689-9f2a70780efa" />
-
-
+### **📌 Visual Gallery**
 <table>
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/ff0e61d1-ee7f-4857-8622-6b2f5beb35ee" width="450" />
       <br />
-      <sub><b> 1. Customer Activity Trends (CreditCard Dataset)</b></sub>
+      <sub><b> 1. Customer Activity Trends </b></sub>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/d3ce0908-cbf2-4bb9-b776-c3bcc49d236a" width="450" />
       <br />
-      <sub><b> 2. Spatial Population Analysis (2001–2011)</b></sub>
+      <sub><b> 2. Spatial Population Analysis (2001–2011) </b></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/55b85eab-a003-4467-b97a-5f583300a02c" width="450" />
       <br />
-      <sub><b> 3. K-Means Feature Grid (IRIS_new Dataset)</b></sub>
+      <sub><b> 3. K-Means Feature Grid </b></sub>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/93872c13-0154-4221-9689-9f2a70780efa" width="450" />
       <br />
-      <sub><b> 4. Sales Efficiency Scatter (African Mobile Sales Dataset)</b></sub>
+      <sub><b> 4. Sales Efficiency Scatter </b></sub>
     </td>
   </tr>
 </table>
-
+</div>
 
 - - -
 
