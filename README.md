@@ -14,8 +14,8 @@ A compact visual exploration of the Superstore dataset, analyzing key business m
 <table>
   <tr>
     <td align="center">
-      <b>Profit Map</b><br>
-      <img src="https://github.com/user-attachments/assets/2f7053f8-bf95-4ba1-8831-760b49281d5b" width="400"/>
+      <img src="https://github.com/user-attachments/assets/2f7053f8-bf95-4ba1-8831-760b49281d5b" width="400"/><br>
+      <b>Profit Map</b>
     </td>
     <td align="center">
       <b>Category Profit</b><br>
