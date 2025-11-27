@@ -18,41 +18,41 @@ A compact visual exploration of the Superstore dataset, analyzing key business m
       <b>Profit Map</b>
     </td>
     <td align="center">
-      <b>Category Profit</b><br>
-      <img src="https://github.com/user-attachments/assets/342a3c28-2138-4228-b1b5-c68134256d6e" width="400"/>
+      <img src="https://github.com/user-attachments/assets/342a3c28-2138-4228-b1b5-c68134256d6e" width="400"/><br>
+      <b>Category Profit</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <b>Discount by State</b><br>
-      <img src="https://github.com/user-attachments/assets/28f3ee16-17a9-4fde-8220-b39fe8cd69f6" width="400"/>
+     <img src="https://github.com/user-attachments/assets/28f3ee16-17a9-4fde-8220-b39fe8cd69f6" width="400"/><br>
+       <b>Discount by State</b>
     </td>
     <td align="center">
-      <b>Sales Treemap</b><br>
-      <img src="https://github.com/user-attachments/assets/cc86f843-bc5d-4f23-9ea0-64521252e045" width="400"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <b>State Sales Pie</b><br>
-      <img src="https://github.com/user-attachments/assets/5681866c-28e4-4369-8cb9-32c26d2d6c18" width="400"/>
-    </td>
-    <td align="center">
-      <b>Profit Trend</b><br>
-      <img src="https://github.com/user-attachments/assets/9f8c77a7-2729-4f82-8d21-50caef6acf31" width="400"/>
+      <img src="https://github.com/user-attachments/assets/cc86f843-bc5d-4f23-9ea0-64521252e045" width="400"/><br>
+      <b>Sales Treemap</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <b>Quantity Histogram</b><br>
-      <img src="https://github.com/user-attachments/assets/e9f16dee-3be6-47ac-a24a-675d508ed998" width="400"/>
+      <img src="https://github.com/user-attachments/assets/5681866c-28e4-4369-8cb9-32c26d2d6c18" width="400"/><br>
+      <b>State Sales Pie</b>
     </td>
     <td align="center">
-      <b>Sales Map</b><br>
-      <img src="https://github.com/user-attachments/assets/7f4ad8ad-027c-4bb0-a1e6-e39e041713d9" width="400"/>
+      <img src="https://github.com/user-attachments/assets/9f8c77a7-2729-4f82-8d21-50caef6acf31" width="400"/><br>
+      <b>Profit Trend</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+     <img src="https://github.com/user-attachments/assets/e9f16dee-3be6-47ac-a24a-675d508ed998" width="400"/><br>
+       <b>Quantity Histogram</b>
+    </td>
+    <td align="center">
+     <img src="https://github.com/user-attachments/assets/7f4ad8ad-027c-4bb0-a1e6-e39e041713d9" width="400"/><br>
+       <b>Sales Map</b>
     </td>
   </tr>
 </table>
@@ -173,34 +173,34 @@ This project presents an interactive Flight Price Analysis built using Tableau, 
 <table>
   <tr>
     <td align="center">
-      <b>Bubble Chart – Airline vs Price</b><br>
-      <img src="https://github.com/user-attachments/assets/5167a3a0-3222-4015-b8af-cab5366f4fad" width="100%">
+      <img src="https://github.com/user-attachments/assets/5167a3a0-3222-4015-b8af-cab5366f4fad" width="100%"><br>
+      <b>Bubble Chart – Airline vs Price</b>
     </td>
     <td align="center">
-      <b>Bubble Chart – Source & Destination with Price</b><br>
-      <img src="https://github.com/user-attachments/assets/135102bd-2e5a-4d68-89ab-16ce256fe533" width="100%">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <b>Bubble Chart – Number of Stops with Price</b><br>
-      <img src="https://github.com/user-attachments/assets/525e8799-06d1-49b1-934c-3bdf27f971ee" width="100%">
-    </td>
-    <td align="center">
-      <b>Box & Whisker – Airline · Duration · Route vs Price</b><br>
-      <img src="https://github.com/user-attachments/assets/aaf1a324-47bd-4e3e-ab54-caa728879112" width="100%">
+      <img src="https://github.com/user-attachments/assets/135102bd-2e5a-4d68-89ab-16ce256fe533" width="100%"><br>
+      <b>Bubble Chart – Source & Destination with Price</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <b>Treemap – Destination Price</b><br>
-      <img src="https://github.com/user-attachments/assets/f44fa297-9c84-4cfb-afe0-0439521fbd0d" width="100%">
+      <img src="https://github.com/user-attachments/assets/525e8799-06d1-49b1-934c-3bdf27f971ee" width="100%"><br>
+      <b>Bubble Chart – Number of Stops with Price</b>
     </td>
     <td align="center">
-      <b>Destination Price Treemap (Detailed)</b><br>
-      <img src="https://github.com/user-attachments/assets/231920c1-c37e-4271-9c77-11d5a62c08ae" width="100%">
+      <img src="https://github.com/user-attachments/assets/aaf1a324-47bd-4e3e-ab54-caa728879112" width="100%"><br>
+      <b>Box & Whisker – Airline · Duration · Route vs Price</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f44fa297-9c84-4cfb-afe0-0439521fbd0d" width="100%"><br>
+      <b>Treemap – Destination Price</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/231920c1-c37e-4271-9c77-11d5a62c08ae" width="100%"><br>
+      <b>Destination Price Treemap (Detailed)</b>
     </td>
   </tr>
 </table>
