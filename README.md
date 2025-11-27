@@ -3,7 +3,7 @@
 A curated collection of Tableau dashboards and data visualizations I created during my academic journey. This repository serves as a visual gallery showcasing my work in analytics, storytelling, and data-driven insights.
 
 - - - 
-
+## 🎯 A. Core Data Explorations
 ### 1. 💳 Customer Activity Trends (CreditCard Dataset)  
 A comparative view of customer behavior metrics such as credit card usage, total visits, and engagement levels. Helps understand how customers interact across banking and online channels.
 
@@ -52,7 +52,7 @@ A sales vs profit scatterplot used to assess operational efficiency. Helps detec
 
 - - -
 
-## 🏬 Superstore Insights
+## B. 🏬 Superstore Insights
 
 A compact visual exploration of the Superstore dataset, analyzing key business metrics such as Sales, Profit, Customer Segments, Categories, and Regional Performance. Through a series of Tableau dashboards, the dataset is broken down into digestible insights that highlight trends, patterns, and actionable observations across different dimensions.
 
@@ -108,7 +108,7 @@ A compact visual exploration of the Superstore dataset, analyzing key business m
 
 - - -
 
-## 🌍 African Mobile Insights
+## C. 🌍 African Mobile Insights
 
 This project explores Sales, Profit, and Geographical trends across African countries using interactive Tableau visualizations. The dataset includes sales records, regional details, and salesperson information, allowing a multi-angle analysis through bar charts, treemaps, maps, bubble charts, and box plots.
 
@@ -154,7 +154,7 @@ This project explores Sales, Profit, and Geographical trends across African coun
 
 - - - 
 
-## 🦠 COVID India Trends
+## D. 🦠 COVID India Trends
 
 This mini gallery showcases Tableau visuals built on the `StatewiseTestingDetails.csv` dataset, highlighting how COVID-19 testing, positives, and negatives varied across Indian states.
 
@@ -208,7 +208,7 @@ This mini gallery showcases Tableau visuals built on the `StatewiseTestingDetail
 - - -
 
 
-## ✈️ Flight Price Analysis
+## E. ✈️ Flight Price Analysis
 
 This project presents an interactive Flight Price Analysis built using Tableau, exploring how different factors such as airline, source–destination pairs, number of stops, route, and duration influence flight pricing. The visual gallery below showcases multiple dashboards and charts created from the FlightPrice_train dataset to uncover patterns, pricing trends, and travel cost insights.
 
