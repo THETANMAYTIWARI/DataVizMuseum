@@ -139,13 +139,11 @@ This project explores Sales, Profit, and Geographical trends across African coun
       <b>Performance Bubbles</b>
     </td>
   </tr>
-
   <tr>
-    <td align="center">
+    <td align="center" colspan="2">
       <img src="https://github.com/user-attachments/assets/2e36309c-460f-4bdf-9d50-82ad025e5c82" width="450" /><br/>
       <b>Outlier Boxplot</b>
     </td>
-    <td align="center"></td>
   </tr>
 </table>
 </div>
