@@ -58,6 +58,45 @@ A compact visual exploration of the Superstore dataset, analyzing key business m
 
 - - -
 
+## 🌍📊 African Mobile Data – Tableau Visual Insights
+
+This project explores Sales, Profit, and Geographical trends across African countries using interactive Tableau visualizations. The dataset includes sales records, regional details, and salesperson information, allowing a multi-angle analysis through bar charts, treemaps, maps, bubble charts, and box plots.
+
+<div align="center">
+
+### **📌 Visual Gallery**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/96bf0674-62fc-4e5a-b3a6-2be78f6259bd" width="450" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/33eecf49-4524-43dc-8200-b7419658393c" width="450" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f7dcf5be-7410-4e1a-8381-5f88e023a3d9" width="450" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5da7b96d-845e-4b37-860e-e0642b3a5edd" width="450" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2e36309c-460f-4bdf-9d50-82ad025e5c82" width="450" />
+    </td>
+    <td align="center">
+    </td>
+  </tr>
+</table>
+</div>
+
+
+
+
+- - - 
 
 ## 🦠 COVID-19 India – Testing & Case Insights
 
