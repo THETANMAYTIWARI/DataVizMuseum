@@ -2,6 +2,8 @@
 
 A curated collection of Tableau dashboards and data visualizations I created during my academic journey. This repository serves as a visual gallery showcasing my work in analytics, storytelling, and data-driven insights.
 
+- - - 
+
 ## 🏬 Superstore Insights
 
 A compact visual exploration of the Superstore dataset, analyzing key business metrics such as Sales, Profit, Customer Segments, Categories, and Regional Performance. Through a series of Tableau dashboards, the dataset is broken down into digestible insights that highlight trends, patterns, and actionable observations across different dimensions.
