@@ -180,23 +180,16 @@ This mini gallery showcases Tableau visuals built on the `StatewiseTestingDetail
     </td>
   </tr>
   <tr>
-    <td></td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/c964eeea-f46f-4bae-ae63-8a2c50c80ae0" width="350" />
+      <img src="https://github.com/user-attachments/assets/c964eeea-f46f-4bae-ae63-8a2c50c80ae0" width="330" />
       <br />
       <sub><b>India’s COVID Hotspots Map</b></sub>
     </td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td></td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/bfa5c06d-204b-4504-a819-3c554cb5d2c0" width="370" />
+      <img src="https://github.com/user-attachments/assets/bfa5c06d-204b-4504-a819-3c554cb5d2c0" width="350" />
       <br />
       <sub><b>Statewise Test Result Share (Pie)</b></sub>
     </td>
-    <td></td>
   </tr>
 </table>
 </div>
